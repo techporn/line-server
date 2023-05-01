@@ -1,0 +1,8 @@
+.env
+*.sh
+*.zip
+img/
+sh/
+python/
+__pycache__
+.aws-sam
